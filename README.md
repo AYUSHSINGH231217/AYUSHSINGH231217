@@ -19,7 +19,7 @@
 
 - 📫Reach me at **ayushsingh231217@gmail.com**
 
-- 📄 Know about my experiences [www.ayushsinghresume.com](www.ayushsinghresume.com)
+- 📄 Know about my experiences [www.ayushsinghresume.com]()
 
 - ⚡ Fun fact **I spend almost 2hours listening to songs every day**
 
