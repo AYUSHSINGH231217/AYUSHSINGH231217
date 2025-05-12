@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsingh231217&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsingh231217" /> </p>
 
@@ -7,19 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/ayushsi13903184" target="blank"><img src="https://img.shields.io/twitter/follow/ayushsi13903184?logo=twitter&style=for-the-badge" alt="ayushsi13903184" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website as Resume**
+- 🔭 I’m currently building **mini and major projects in React**, as well as exploring **backend development**.
 
-- 🌱 I’m currently learning **Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AYUSHSINGH231217/AYUSHSINGH231217](https://github.com/AYUSHSINGH231217/AYUSHSINGH231217)
 
-- 💬 Ask me about **C,C++Python,Flask,Html,Css,JavaScript**
+- 💬 Ask me about **C,Python,React,Django,Peoplesoft,Html,Css,JavaScript,Node Js,Express,Eloqua,MongoDB**
 
-- 📫Reach me at **ayushsingh231217@gmail.com**
+- 📫 Reach me at **ayushsingh231217@gmail.com**
 
 - 📄 Know about my experiences [https://ayushsingh231217.github.io/]()
 
-- ⚡ Fun fact **I spend almost 2hours listening to songs every day**
+- ⚡ Fun fact **I spend almost 2 hours listening to songs every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
